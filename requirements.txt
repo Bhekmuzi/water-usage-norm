@@ -1,7 +1,7 @@
 # requirements.txt
 
 # Data Retrieval from InfluxDB
-influxdb==5.3.0
+influxdb==5.3.1
 
 # Data Storage in MongoDB
 pymongo==3.12.0
